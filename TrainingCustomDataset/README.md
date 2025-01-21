@@ -1,0 +1,1 @@
+This folder is used for training the model on the custom dataset.
